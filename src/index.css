@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(186, 255, 232);
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-weight: bold;
+}
+.containerr{
+    margin-top: 100px;
+    padding: 100px 600px 0px 600px;
+}
+
+.form-check{
+    margin: 8px;
+}
+.lfg{
+    text-align: center;
+    margin-top: 7px;
+    margin-right: 20px;
+}
+.radioo{
+display: flex;
+}
+
+.custom-navbar-color {
+    background-color: rgb(40, 35, 65); /* Replace with your desired color */
+}
+.custom-footer-color {
+    background-color: rgb(11, 2, 59);
+}
+
+.fixed-bottom {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    z-index: 999; /* Ensure it's on top of other content */
+}
